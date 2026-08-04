@@ -1,3 +1,9 @@
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001f1d,50:064e3b,100:10b981&height=200&section=header&text=Lui%20Antlee&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=53E3A6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lui+%F0%9F%91%8B;Full-Stack+%2B+AI+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Electron+%7C+Node;Building+Real+Products%2C+Not+Just+Demos" alt="Typing SVG" /> <br/>
+
+Show Image Show Image Show Image
+
+<img src="https://komarev.com/ghpvc/?username=luiantlee&label=Profile%20Views&color=53E3A6&style=for-the-badge" alt="Profile Views" /> </div>
+
 # 💫 About Me:
 # Hi, I'm a Software Engineer passionate about building modern web and desktop applications.
 
@@ -26,4 +32,12 @@ This version is concise, recruiter-friendly, and fits nicely in a GitHub README 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<br/><br/>
+
+<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> <br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn" />
+
+"Ship it, then make it elegant."
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
