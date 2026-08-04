@@ -1,6 +1,13 @@
 # 💫 About Me:
-# About Me<br><br>Hi, I'm a Software Engineer passionate about building scalable applications, solving complex engineering problems, and continuously learning new technologies.<br><br>I primarily work with **JavaScript, TypeScript, React, Next.js, Node.js, and Electron**, building production applications with a strong focus on clean architecture, maintainable code, and user experience. Over the past few years, I've worked on desktop and web applications, learning management systems, translation platforms, synchronization workflows, and AI-powered developer tools.<br><br>I enjoy going beyond feature development to understand **how software works under the hood**. Whether it's designing application architecture, improving performance, building export pipelines, or exploring AI-assisted development, I enjoy breaking complex problems into practical, reliable solutions.<br><br>Recently, I've been expanding my knowledge in **AI engineering, system design, cloud technologies, and multi-agent architectures** while building personal projects that combine software engineering with modern AI workflows. One of my recent projects includes developing **LEOS**, a deterministic engineering platform featuring a runtime, execution engine, knowledge system, scheduler, Artifact Bus, repository adapter, and extensible engine architecture.<br><br>### What I'm currently focused on<br><br>* Building production-quality React and TypeScript applications<br>* Designing scalable software architectures<br>* Learning AI engineering and agent-based systems<br>* Improving system design and backend development skills<br>* Contributing to projects that solve real-world problems<br><br>I'm always interested in collaborating on meaningful projects, learning from experienced engineers, and continuously improving both my technical and problem-solving skills.<br><br>
+# About Me<br>Hi, I'm a Software Engineer passionate about building modern web and desktop applications.
 
+I primarily work with JavaScript, TypeScript, React, Next.js, Node.js, and Electron, with a focus on writing clean, maintainable code and building scalable software. I enjoy solving real-world problems, exploring software architecture, and continuously learning new technologies.
+
+🌱 Currently learning: AI Engineering, System Design, Cloud Technologies, and Multi-Agent Systems.
+
+🚀 Interested in: Open Source, AI-powered applications, Full-Stack Development, and building impactful products.
+
+This version is concise, recruiter-friendly, and fits nicely in a GitHub README without overwhelming visitors.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lui-antlee-antony-koodily-bbb916229/) 
